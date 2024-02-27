@@ -29,7 +29,7 @@ A Flutter application that provides weather information using the OpenWeatherMap
 ## Screenshots
 
 ### Splash Screen
-    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Splash_screen.jpg)
+    ![].(https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Splash_screen.jpg)
 
 ### Signup Screen 
     ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Signup.jpg)
