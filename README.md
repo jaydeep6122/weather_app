@@ -29,19 +29,19 @@ A Flutter application that provides weather information using the OpenWeatherMap
 ## Screenshots
 
 ### Splash Screen
-    ![Splash_Screen](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Splash_screen.jpg)
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Splash_screen.jpg)
 
 ### Signup Screen 
-    ![Signup_Screen](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Signup.jpg)
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Signup.jpg)
 
 ### Login Screen
-    ![Login_Screen](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Login.jpg)
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Login.jpg)
 
 ### Home Screen
-    ![Home_Screen](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/homepage.jpg)
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/homepage.jpg)
 
 ### Drawer With Searchbar
-    ![Drawer_With_Searchbar](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Drawer.jpg)
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Drawer.jpg)
 
 ## Getting Started
 
