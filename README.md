@@ -28,20 +28,20 @@ A Flutter application that provides weather information using the OpenWeatherMap
 
 ## Screenshots
 
-1. Splash Screen
-    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Splash_screen.jpg)
+### Splash Screen
+    ![Splash Screen](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Splash_screen.jpg)
 
-2. Signup Screen 
-    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Signup.jpg)
+### Signup Screen 
+    ![Signup Screen](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Signup.jpg)
 
-3. Login Screen
-    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Login.jpg)
+### Login Screen
+    ![Login Screen](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Login.jpg)
 
-4. Home Screen
-    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/homepage.jpg)
+### Home Screen
+    ![Home Screen](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/homepage.jpg)
 
-5. Drawer With Searchbar
-    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Drawer.jpg)
+### Drawer With Searchbar
+    ![Drawer With Searchbar](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Drawer.jpg)
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flutter-weather-app.git
+   git clone https://github.com/jaydeep6122/flutter-weather-app.git
    cd flutter-weather-app
 
 2. Install dependencies:
