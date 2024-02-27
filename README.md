@@ -55,10 +55,13 @@ To run this project locally, follow these steps:
    git clone https://github.com/jaydeep6122/flutter-weather-app.git
    cd flutter-weather-app
 
-2. Install dependencies:
+2. Configure OpenWeatherMap API key:
+   Obtain an API key from OpenWeatherMap and replace YOUR_API_KEY in lib/model/weatherdata.dart with your actual API key.
+
+3. Install dependencies:
     ```bash
     flutter pub get
 
-3. Run the app:
+4. Run the app:
     ```bash
     flutter run

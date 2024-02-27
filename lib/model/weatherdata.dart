@@ -21,7 +21,7 @@ class WeatherdataProvider with ChangeNotifier {
       isLoading = true;
       var box = await Hive.openBox('testBox');
       var url = Uri.parse(
-          "https://api.openweathermap.org/data/2.5/weather?q=$cityName&appid=341c1ce138075c20c72ab7bfa410a85d");
+          "https://api.openweathermap.org/data/2.5/weather?q=$cityName&appid={APIKEY}");
       var response = await http.get(url);
       //print(response.statusCode);
       var data = jsonDecode(response.body);
@@ -82,7 +82,7 @@ class WeatherdataProvider with ChangeNotifier {
     try {
       var box = await Hive.openBox('weeklyWeather');
       var url = Uri.parse(
-          "http://api.openweathermap.org/data/2.5/forecast?cnt=6&q=$cityName&appid=341c1ce138075c20c72ab7bfa410a85d");
+          "http://api.openweathermap.org/data/2.5/forecast?cnt=6&q=$cityName&appid={APIKEY}");
       var response = await http.get(url);
       var data = jsonDecode(response.body)["list"];
       _weeklyWeather = data;
