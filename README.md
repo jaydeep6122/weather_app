@@ -1,16 +1,62 @@
-# weather_app
+# Flutter Weather App
 
-A new Flutter project.
+A Flutter application that provides weather information using the OpenWeatherMap API. The app includes features like daily weather, favorite list, search, weekly weather, authentication, Local Storage and a splash screen.
+
+## Features
+
+1. **Daily Weather:**
+   - View current weather conditions.
+   - Display temperature, humidity, wind speed, and other relevant information.
+
+2. **Favorite List:**
+   - Save and manage a list of favorite locations for quick access to their weather information.
+
+3. **Search:**
+   - Search for weather information of any location using the search functionality.
+
+4. **Weekly Weather:**
+   - Access a weekly forecast to plan ahead.
+
+5. **Authentication:**
+   - User authentication to personalize the experience and save preferences.
+
+6. **Splash Screen:**
+   - A visually appealing splash screen to enhance the app's initial loading experience.
+
+7. **Hive Storage**
+    -Use Hive Storage to store Previously fatch data into Local Storage
+
+## Screenshots
+
+1. Splash Screen
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Splash_screen.jpg)
+
+2. Signup Screen 
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Signup.jpg)
+
+3. Login Screen
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Login.jpg)
+
+4. Home Screen
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/homepage.jpg)
+
+5. Drawer With Searchbar
+    ![](https://github.com/jaydeep6122/weather_app/blob/main/Screenshot/Drawer.jpg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/yourusername/flutter-weather-app.git
+   cd flutter-weather-app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Install dependencies:
+    ```bash
+    flutter pub get
+
+3. Run the app:
+    ```bash
+    flutter run
